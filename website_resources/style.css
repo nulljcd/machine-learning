@@ -88,8 +88,13 @@ body {
 }
 
 .header {
-    font-size: 18px;
+    font-size: 32px;
     font-weight: 1000;
+}
+
+.sub_header {
+    font-size: 14px;
+    color: #ad9cc9;
 }
 
 .line_spacer {
