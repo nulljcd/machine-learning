@@ -102,3 +102,15 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+.link {
+    color: #807395;
+    text-decoration: underline;
+    cursor: pointer;
+    width: max-content;
+}
+
+.link:hover {
+    color: #f3eadb;
+    background-color: #807395;
+}
